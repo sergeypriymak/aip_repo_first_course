@@ -59,7 +59,6 @@
 | [3. Титаник](./contest_04/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Титаник](./contest_04/04/main.go) | ![](./img/go.png) |
 
-> Waffelzzz:
 |[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
 | --- | :-: |
 | [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
